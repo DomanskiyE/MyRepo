@@ -1,2 +1,2 @@
-# first
+# Repo
 first repository for tests
